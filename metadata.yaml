@@ -1,0 +1,31 @@
+_repo: Keijukainen_66739
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: https://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '2021-11-15'
+identifiers:
+  gutenberg: '66739'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Keijukainen
+url: http://www.gutenberg.org/ebooks/66739
